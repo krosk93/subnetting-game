@@ -7,7 +7,8 @@ const nextConfig = {
     path: '',
   },
   assetPrefix: '/subnetting-game/',
-  basePath: '/subnetting-game'
+  basePath: '/subnetting-game',
+  output: 'export'
 };
 
 export default nextConfig;
