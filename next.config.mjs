@@ -6,7 +6,8 @@ const nextConfig = {
     loader: 'akamai',
     path: '',
   },
-  assetPrefix: './',
+  assetPrefix: '/subnetting-game/',
+  basePath: '/subnetting-game'
 };
 
 export default nextConfig;
